@@ -1,6 +1,6 @@
 ---
 applications:
-- name: NIBlueBox
+- name: nibluebox.mybluemix.net
   memory: 128M
 - services:
   - Object Storage (v1)-pb
